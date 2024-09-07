@@ -54,13 +54,27 @@ These projects developed using URL based data import, so no need to worry that t
 
 ### Preview the Notebook via Google Colab
 
+* Follow the "Preview the notebook via github" steps
+* Click on "Open in Colab"
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## How to Test & Run the Notebook
 
+To run this notebook you can follow the steps below:
+* Click on the project file in this repository.
+* Click on "Open in Colab"
+* Click "Connect" or "Connect to a new runtime" at the google colab
+* Select "Runtime" at the top bar and click "Run all"
+* Click "run anyway" if notification poped up
+
+You can directly preview the detailed process of data analytic, also you can edit anything you need inside the notebook and test it.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Preview All via Mobile Phone
+
+You can follow all the steps above to preview the projects. But in this section I will provide the video that shows how easily you can access this projects via mobile phone.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
