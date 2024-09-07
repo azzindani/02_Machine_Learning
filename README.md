@@ -8,13 +8,15 @@
       <a href="#about-this-repository">About This Repository</a>
     </li>
     <li>
-      <a href="#import-dataset">Import Dataset</a>
+      <a href="#how-to-preview-the-notebook">How to Preview the Notebook</a>
       <ul>
-        <li><a href="#import-by-url">Import by URL</a></li>
-        <li><a href="#download-dataset">Download Dataset</a></li>
-        <li><a href="#download-all-datasets">Download All Datasets</a></li>
+        <li><a href="#preview-the-notebook-via-github">Preview the Notebook via Github</a></li>
+        <li><a href="#preview-the-notebook-via-nbviewer">Preview the Notebook via nbviewer</a></li>
+        <li><a href="#preview-the-notebook-via-google-colab">Preview the Notebook via Google Colab</a></li>
       </ul>
     </li>
+    <li><a href="#how-to-test-and-run-the-notebook">How to Test and Run the Notebook</a></li>
+    <li><a href="#preview-all-via-mobile-phone">Preview All via Mobile Phone</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -76,7 +78,7 @@ These projects developed using URL based data import, so no need to worry that t
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## How to Test & Run the Notebook
+## How to Test and Run the Notebook
 
 To run this notebook you can follow the steps below:
 * Click on the project file in this repository
