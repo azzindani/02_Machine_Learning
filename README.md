@@ -37,6 +37,9 @@ These projects developed using URL based data import, so no need to worry that t
   </div>
   
 * GitHub will automatically render the notebook, allowing you to view the cells, outputs, and markdown as it appears in a Jupyter Notebook environment.
+  <div align="center">
+    <img src="/assets/002.png" alt="Logo" width="1000">
+  </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -48,27 +51,63 @@ These projects developed using URL based data import, so no need to worry that t
   ```
 * Go to nbviewer (https://nbviewer.org/)
 * Paste the URL of your notebook in the search bar and click "Go"
-* This will render your notebook in a readable format.
+  <div align="center">
+    <img src="/assets/003.png" alt="Logo" width="1000">
+  </div>
+  
+* This will render your notebook in a readable format
+  <div align="center">
+    <img src="/assets/004.png" alt="Logo" width="1000">
+  </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Preview the Notebook via Google Colab
 
 * Follow the "Preview the notebook via github" steps
+  <div align="center">
+    <img src="/assets/001.png" alt="Logo" width="1000">
+  </div>
+  
 * Click on "Open in Colab"
+  <div align="center">
+    <img src="/assets/005.png" alt="Logo" width="1000">
+  </div>
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## How to Test & Run the Notebook
 
 To run this notebook you can follow the steps below:
-* Click on the project file in this repository.
+* Click on the project file in this repository
+  <div align="center">
+    <img src="/assets/001.png" alt="Logo" width="1000">
+  </div>
+  
 * Click on "Open in Colab"
+  <div align="center">
+    <img src="/assets/005.png" alt="Logo" width="1000">
+  </div>
+  
 * Click "Connect" or "Connect to a new runtime" at the google colab
+  <div align="center">
+    <img src="/assets/006.png" alt="Logo" width="1000">
+  </div>
+  
 * Select "Runtime" at the top bar and click "Run all"
+  <div align="center">
+    <img src="/assets/007.png" alt="Logo" width="1000">
+  </div>
+  
 * Click "run anyway" if notification poped up
+  <div align="center">
+    <img src="/assets/008.png" alt="Logo" width="1000">
+  </div>
 
 You can directly preview the detailed process of data analytic, also you can edit anything you need inside the notebook and test it.
+<div align="center">
+  <img src="/assets/009.png" alt="Logo" width="1000">
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
